@@ -17,12 +17,12 @@ bot.startRTM(function(err,bot,payload) {
 			bot.api.reactions.add({
 				timestamp: message.ts,
 				channel: message.channel,
-				name: 'thumbs_up',
+				name: 'thumbsup',
 			});
 			bot.api.reactions.add({
 				timestamp: message.ts,
 				channel: message.channel,
-				name: 'thumbs_down',
+				name: 'thumbsdown',
 			});
 		};
 
