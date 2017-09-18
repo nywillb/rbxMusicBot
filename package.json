@@ -1,0 +1,8 @@
+{
+  "name": "rbxMusicBot",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.6.0"
+  }
+}
