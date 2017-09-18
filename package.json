@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
-    "botkit": "^0.6.0"
+    "botkit": "^0.6.0",
+    "express": "^4.15.4"
   }
 }
