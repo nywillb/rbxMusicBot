@@ -1,3 +1,3 @@
 module.exports = {
-     slack_token: "", //put your own slack token here!
+     slack_token: "test", //put your own slack token here!
 };
